@@ -1,0 +1,22 @@
+{
+  "name": "@zhaoyao91/compose",
+  "version": "0.0.0",
+  "description": "Compose functions.",
+  "main": "src/compose.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "keywords": [
+    "compose"
+  ],
+  "repository": "github:zhaoyao91-npm/compose",
+  "author": {
+    "name": "zhaoyao91",
+    "email": "zhaoyao91@aliyun.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.17.1",
+    "tap": "^14.2.0"
+  }
+}
